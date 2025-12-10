@@ -4,7 +4,7 @@ emoji: "👓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Unity", "AR", "Android"]
 publication_name: nislab 
-published: false
+published: true
 ---
 # 私たちの研究室(Nislab)
 
