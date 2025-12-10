@@ -42,13 +42,13 @@ Sceneに、XR OriginとAR Sessionを用意します。
 この時、AR Sessionはカメラの役割を果たします。
 
 XR Originの中に"Add Component"から"AR Tracked Image Manager"を追加します。
-![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image.png?raw=true =250x)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image.png?raw=true =500x)
 
 更に、Project->Assetsフォルダの中にCardImageLibrary (XR Reference Image Library)を追加します。
 CardImageLibraryでは、認識したい画像と名前とサイズを設定します。
 ![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-1.png?raw=true =250x)
 このCardImageLibraryを、AR Tracked Image ManagerのSerialized Libraryに入れます。
-![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-2.png?raw=true =250x)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-2.png?raw=true =500x)
 
 以下のコードが入ったスクリプト、show_multiple_image.csを作り、XR ORiginに追加します。
 ```
