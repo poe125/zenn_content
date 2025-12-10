@@ -3,6 +3,7 @@ title: "Unity6-ARで画像から3Dモデル表示"
 emoji: "👓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Unity", "AR", "Android"]
+publication_name: nislab 
 published: false
 ---
 # 私たちの研究室(Nislab)
