@@ -10,7 +10,7 @@ published: true
 
 https://nisk.doshisha.ac.jp/
 
-# アドベントカレンダー 10 日目~
+# アドベントカレンダー 9 日目~
 
 https://nislab-advendcallender-2025.vercel.app/
 
