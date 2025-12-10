@@ -41,13 +41,13 @@ Sceneに、XR OriginとAR Sessionを用意します。
 この時、AR Sessionはカメラの役割を果たします。
 
 XR Originの中に"Add Component"から"AR Tracked Image Manager"を追加します。
-![alt text](./images/image.png)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image.png)
 
 更に、Project->Assetsフォルダの中にCardImageLibrary (XR Reference Image Library)を追加します。
 CardImageLibraryでは、認識したい画像と名前とサイズを設定します。
-![alt text](./images/image-1.png)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-1.png)
 このCardImageLibraryを、AR Tracked Image ManagerのSerialized Libraryに入れます。
-![alt text](./images/image-2.png)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-2.png)
 
 以下のコードが入ったスクリプト、show_multiple_image.csを作り、XR ORiginに追加します。
 ```
@@ -135,8 +135,8 @@ show_multiple_imageの中の、Prefab to Spawnに表示したい3Dモデルを�
 
 ## 最後に
 実際に3D表示した画面です。
-![fushicho](./images/fushicho.jpg)
-![forest dragon](./images/forestdragon.jpg)
+![fushicho](https://github.com/poe125/zenn_content/blob/main/articles/images/fushicho.jpg)
+![forest dragon](https://github.com/poe125/zenn_content/blob/main/articles/images/forestdragon.jpg)
 
 ## 参照
 [作ったもの]ARを使ったカードバトルゲーム
