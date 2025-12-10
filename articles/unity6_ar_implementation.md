@@ -47,7 +47,7 @@ XR Originの中に"Add Component"から"AR Tracked Image Manager"を追加しま
 CardImageLibraryでは、認識したい画像と名前とサイズを設定します。
 ![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-1.png)
 このCardImageLibraryを、AR Tracked Image ManagerのSerialized Libraryに入れます。
-![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-2.png)
+![alt text](https://github.com/poe125/zenn_content/blob/main/articles/images/image-2.png?raw=true)
 
 以下のコードが入ったスクリプト、show_multiple_image.csを作り、XR ORiginに追加します。
 ```
